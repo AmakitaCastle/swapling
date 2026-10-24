@@ -2,7 +2,7 @@
 
 [English](README.md) · 简体中文
 
-把 AI 平台的额度和余额放进 MacBook 刘海的灵动岛。数据由内置的 [CodexBar](https://github.com/steipete/CodexBar) 命令行工具读取，**不需要另外安装 CodexBar**。当前版本只显示 Codex（ChatGPT）、Claude 和 DeepSeek 三个平台；DeepSeek 还没有用真实 Key 完整验证过。
+把 AI 平台的额度和余额放进 MacBook 刘海的灵动岛。数据由内置的 [CodexBar](https://github.com/steipete/CodexBar) 命令行工具读取，**不需要另外安装 CodexBar**。当前版本只显示 Codex（ChatGPT）、Claude 和 DeepSeek 三个平台
 
 ## 功能
 - **刘海两侧常驻**：只显示你在设置里勾选的平台（最多 4 个），圆环和百分比表示已用额度。
