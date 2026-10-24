@@ -34,11 +34,7 @@ swift run Swapling         # 直接运行（开发用）
 
 菜单栏会出现一个岛灵图标，可以从这里刷新、打开设置和退出。图标资源及导出方式见 [品牌资源](Resources/Brand/README.md)。
 
-`scripts/fetch-codexbar-cli.sh` 固定了 CodexBar CLI 的版本和 sha256，下载 Apple 芯片版到 `.cache/`（不进 git），由 `bundle.sh` 放进 `Swapling.app/Contents/Helpers/CodexBarCLI`。升级时改脚本里的版本号和校验值。`swift run` 时没有 app 包，会退回到「设置」里填的备用路径或系统里已装的 `codexbar`。
 
-## 代码结构
-- `Sources/IslandCore`：不依赖界面的部分。查找内置 CLI、准备配置文件、调用 CodexBar CLI、解析 JSON、判断何时弹出提醒、格式化倒计时。
-- `Sources/Swapling`：刘海窗口（`IslandPanelController`）、灵动岛界面（`IslandRootView`）、设置页。
 
 ## 许可
 本项目代码以 [MIT 许可证](LICENSE) 发布。`Resources/Characters/` 中的角色图是非商用二创，不在 MIT 范围内，见 [角色图声明](Resources/Characters/NOTICE.md)。
