@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="20" viewBox="0 0 24 20">
+<title>引力 / Orbit</title>
+<defs><mask id="gap"><rect width="24" height="20" fill="white"/><ellipse cx="12" cy="10" rx="10.5" ry="3.4" transform="rotate(-26 12 10)" fill="none" stroke="black" stroke-width="4.8"/></mask></defs>
+<circle cx="12" cy="10" r="7.2" fill="currentColor" mask="url(#gap)"/>
+<ellipse cx="12" cy="10" rx="10.5" ry="3.4" transform="rotate(-26 12 10)" fill="none" stroke="currentColor" stroke-width="2"/>
+</svg>

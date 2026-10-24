@@ -1,0 +1,7 @@
+Mode: built-in image_gen style-transfer/edit; transparent background.
+
+Use case: identity-preserve / precise-object-edit.
+Edit the attached pixel-art Claude avatar into ONE alternate status avatar.
+Preserve EXACTLY the same handcrafted pixel-art style, chunky square pixel density, staircase contours, brown outline thickness, limited warm chestnut/ivory/orange palette and sprite scale. Same large head, same framing, same face identity, amber eyes, brown bangs and side braid at viewer right, orange flower and ribbons, ivory blouse, leather straps, flower notebook. The normal sprite is the absolute authority for both design AND PIXEL STYLE. Do not turn it into a smooth anime illustration. No anti-aliasing, gradients, soft painting, blur, 3D or new decorative effects.
+Only change facial expression and subtle hand/shoulder pose. Keep the face as large and centered as the reference, same square canvas and same head margins. Transparent alpha background; no tile, scenery, shadows, words, labels, symbols, border, sheet or checkerboard. One character portrait only.
+EXHAUSTED / quota used up, resting: visibly CLOSED eyes as simple dark pixel eyelid curves, small relaxed weary mouth, slight sleepy head tilt. Rest cheek gently on one hand, other hand holds original flower notebook at bottom. Cozy and quietly sleepy rather than sad, no tears. Closed eyes and cheek-on-hand pose must be clearly distinct at 64px.
